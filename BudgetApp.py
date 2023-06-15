@@ -29,3 +29,4 @@ while True:
 print("Exiting the budget application.")
 
 // still need to work on GUI, which I just lost....
+// two buttons with adding and removing expenses.
